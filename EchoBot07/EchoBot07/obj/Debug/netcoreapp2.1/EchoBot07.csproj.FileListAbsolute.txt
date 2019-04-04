@@ -1,0 +1,15 @@
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\bin\Debug\netcoreapp2.1\EchoBot07.bot
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\bin\Debug\netcoreapp2.1\EchoBot07.deps.json
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\bin\Debug\netcoreapp2.1\EchoBot07.runtimeconfig.json
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\bin\Debug\netcoreapp2.1\EchoBot07.runtimeconfig.dev.json
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\bin\Debug\netcoreapp2.1\EchoBot07.dll
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\bin\Debug\netcoreapp2.1\EchoBot07.pdb
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.csprojAssemblyReference.cache
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.csproj.CoreCompileInputs.cache
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.RazorAssemblyInfo.cache
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.RazorAssemblyInfo.cs
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.AssemblyInfoInputs.cache
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.AssemblyInfo.cs
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.RazorTargetAssemblyInfo.cache
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.dll
+C:\Users\ulysses\source\repos\EchoBot07\EchoBot07\obj\Debug\netcoreapp2.1\EchoBot07.pdb
